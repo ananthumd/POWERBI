@@ -1,1 +1,2 @@
-# This project uses Power BI to analyze the Bike Sales dataset (India) and create interactive dashboards. The visualizations provide insights into sales performance, customer demographics, and regional trends, helping to understand market behavior and business opportunities.
+# Bike Sales Analysis (India) – Power BI Dashboard
+This project uses Power BI to analyze the Bike Sales dataset (India) and create interactive dashboards. The visualizations provide insights into sales performance, customer demographics, and regional trends, helping to understand market behavior and business opportunities.
